@@ -7,7 +7,6 @@ Raisecoin is a revolutionary project aimed at addressing the global challenge of
 
 - **Decentralization**: Utilizing the power of blockchain to ensure trust and transparency, even with users located miles away.
 - **Global Currency**: Leveraging cryptocurrency for secure and transparent transactions.
-- **Base Blockchain**: Chosen for its future scalability and ability to handle numerous transactions efficiently with low gas fees.
 
 ## Contract Deployed on NeoX Testnet
 Contract Address: 0x2308F5d9499Ef4ecba40046d8645Ce2108dacF57
